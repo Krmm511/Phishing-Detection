@@ -107,10 +107,9 @@ pip install -r xgboost
 ```
 
 3. Open:
-
 ```
 phishing_detection_reproduction.ipynb
-
+```
 
 ## Results
 
@@ -118,7 +117,6 @@ Four machine learning models were trained and compared on the phishing detection
 
 The experiments showed that Random Forest achieved the best overall performance, while XGBoost produced very similar results. These findings are consistent with the conclusions presented in the original paper.
 
----
 
 ## Author
 
