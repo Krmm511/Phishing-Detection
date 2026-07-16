@@ -40,9 +40,10 @@ Each sample is classified as either phishing or legitimate.
 ```
 .
 ├── dataset.csv
-├── phishing_detection_reproduction.ipynb
-├── ProjectReport.pdf
+├── phishing_detection_reproductionV2F.ipynb
+├── ProjectReportV2.pdf
 ├── README.md
+├── requirements.txt
 ```
 
 ---
